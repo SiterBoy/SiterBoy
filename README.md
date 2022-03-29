@@ -46,7 +46,6 @@
 
 <p align="center">
 
-<a href="tel:+7(921)389-77-54"><img src="https://img.shields.io/badge/+79213897754-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="mailto:phpdevelop@ya.ru"><img src="https://img.shields.io/badge/-phpdevelop@ya.ru-D14836?style=flat&logo=yandex&logoColor=white"/></a>
 <a href="https://instagram.com/phpexec"><img src="https://img.shields.io/badge/-@phpexec-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/phpexec"><img src="https://img.shields.io/badge/-@phpexec-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>

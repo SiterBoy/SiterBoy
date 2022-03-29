@@ -7,7 +7,8 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 
 <hr>
-### 🛠 &nbsp;Tech Stack
+
+### 🛠 &nbsp; Tech Stack
 
 <hr>
 

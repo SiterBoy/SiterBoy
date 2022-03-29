@@ -14,6 +14,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
+![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=Gulp&logoColor=1572B6)&nbsp;
 
 #### BackEnd
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -26,5 +27,6 @@
 
 #### Other
 ![Socket.io](https://img.shields.io/badge/-soclet.io-05122A?style=flat&logo=socket.io)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

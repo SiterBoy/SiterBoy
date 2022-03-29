@@ -22,6 +22,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 
 #### Other
-![socket.io](https://img.shields.io/badge/-soclet.io-05122A?style=flat&logo=socket.io)&nbsp;
+![Socket.io](https://img.shields.io/badge/-soclet.io-05122A?style=flat&logo=socket.io)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

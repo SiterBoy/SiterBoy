@@ -16,7 +16,7 @@
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
 
 #### DataBases
-![MySQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=MySQL)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 
 #### Other

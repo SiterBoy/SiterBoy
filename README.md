@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Anton -->
+## 👋 &nbsp;Hey there! I'm Anton
 
 <p><b>I'm FullStack JavaScript Developer.</b></p>
 

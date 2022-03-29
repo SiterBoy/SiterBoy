@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-
+<hr>
 ### 🛠 &nbsp;Tech Stack
 
 <p>I love new technologies and enjoy learning new ones.</p>

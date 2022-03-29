@@ -2,10 +2,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+
 <hr>
 ### 🛠 &nbsp;Tech Stack
-
-<p>I love new technologies and enjoy learning new ones.</p>
 
 <hr>
 

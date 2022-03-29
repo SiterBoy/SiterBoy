@@ -1,6 +1,6 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Anton -->
 
-I'm FullStack JavaScript Developer.
+<p><b>I'm FullStack JavaScript Developer.</b></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 

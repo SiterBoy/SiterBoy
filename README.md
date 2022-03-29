@@ -1,9 +1,11 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Anton -->
 
+I'm FullStack JavaScript Developer.
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp; In my free time, I pursue snowboarding, travelling, and other activities.\
 ✉️ &nbsp;You can shoot me an email at phpdevelop@ya.ru! I'll try to respond as soon as I can.\
 
 <hr>

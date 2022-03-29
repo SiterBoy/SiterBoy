@@ -7,7 +7,9 @@
 
 <p>I love new technologies and enjoy learning new ones.</p>
 
-
+<br>
+<br>
+<hr>
 
 #### FrontEnd
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -35,8 +37,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
-
+<br>
+<br>
+<hr>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">

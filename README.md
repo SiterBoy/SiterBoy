@@ -15,11 +15,13 @@
 #### BackEnd
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=Sequelize)&nbsp;
 
 #### DataBases
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 
 #### Other
+![soclet.io](https://img.shields.io/badge/-soclet.io-05122A?style=flat&logo=soclet.io)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

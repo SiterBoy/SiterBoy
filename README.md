@@ -38,7 +38,7 @@
 <p align="center">
 
 <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/-Kaliberov-Anton-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:phpdevelop@ya.ru"><img src="https://img.shields.io/badge/-phpdevelop@ya.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:phpdevelop@ya.ru"><img src="https://img.shields.io/badge/-phpdevelop@ya.ru-D14836?style=flat&logo=yandex&logoColor=white"/></a>
 <a href="https://instagram.com/phpexec"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/phpexec"><img src="https://img.shields.io/badge/-@phpexec-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
